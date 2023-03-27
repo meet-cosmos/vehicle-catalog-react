@@ -1,0 +1,47 @@
+#search-filter{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    margin-left: 16em;
+}
+
+#filter-div{
+    margin-right: 8em;
+}
+
+#filter{
+    width: 14em;
+    height: 25px;
+    /* font-size: large; */
+}
+
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+th, td{
+    width: 400px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    /* background-color: navy; */
+    /* color: white; */
+}
+
+.th{
+    background-color: blue;
+    color: white;
+}
+
+.td{
+    background-color: lightcyan;
+}
+
+#table-div{
+    margin-top: 60px;
+}
+
+table{
+    border-collapse: collapse;
+}
